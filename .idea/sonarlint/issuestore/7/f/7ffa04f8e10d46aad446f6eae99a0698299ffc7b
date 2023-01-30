@@ -1,0 +1,8 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(Í›¸ıÿÿÿÿ
+P
+java:S1133%"5Do not forget to remove this deprecated code someday.(ˆ±©öùÿÿÿÿ
+B
+java:S1123%"'Add the missing @Deprecated annotation.(ˆ±©öùÿÿÿÿ
+g
+java:S1128"QRemove this unused import 'org.apache.maven.plugins.annotations.ResolutionScope'.(£ÜƒÏ
